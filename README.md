@@ -6,8 +6,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### REQUIRED (10pts)
 
-- [ ] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [ ] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 #### BONUS
 
@@ -21,9 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://submissions.us-east-1.linodeobjects.com/android_university/AgBMvP9d.gif" width=250><br>
 
 ### Notes
 
